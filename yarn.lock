@@ -16,10 +16,10 @@
   dependencies:
     stream-slice "^0.1.2"
 
-"@masx200/koa-stream-etag@^5.0.7":
-  version "5.0.7"
-  resolved "https://registry.yarnpkg.com/@masx200/koa-stream-etag/-/koa-stream-etag-5.0.7.tgz#bb4ada6ca026a9308856fe8b7aa14cff21e2897a"
-  integrity sha512-EsSq9GmqjSvr4Dtp2QJkMGySjtb20EO0DcdlDVNB5jKAUYzvfZDJRYp7bFAo3FF1WcCxwXhTqiQh1eGgkxb79g==
+"@masx200/koa-stream-etag@^5.0.8":
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/@masx200/koa-stream-etag/-/koa-stream-etag-5.0.8.tgz#aa0b5d59e66afb38b0ad28614578adf32073065a"
+  integrity sha512-ApQRUNsxxfXOi4bBMRCNfqnIwkgWcpKTsTB/Z3PZm3QRTMnAe6LGDNGs9o3s4yPGVfcvOBYwlhHOqLZLCMKyKg==
   dependencies:
     etag "^1.8.1"
 
